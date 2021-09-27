@@ -24,5 +24,12 @@ def removeTop(fruit_list):
 
 removeTop(fruit_list)
 
+# peek() - Returns a copy of the top item in the stack.
+
+def copy(fruit_list):
+    print (fruit_list[0])
+
+copy(fruit_list)
+
 
 
