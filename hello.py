@@ -1,3 +1,1 @@
-print('ciao')
-print('ciao')
-print('ci')
+print ('status 2')
